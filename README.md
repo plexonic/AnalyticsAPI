@@ -13,7 +13,7 @@ Any relation database.
 #### 2. Provided Data format
 There are 2 csv files in data.zip archive.
 
-2.1 users.csv
+##### 2.1 users.csv
 
 Contins users information.
 
@@ -22,7 +22,7 @@ Contins users information.
 | user_id |   User unique identifier |
 | install_date |    Date when user registreted in the system |
 
-2.2 requests.csv
+##### 2.2 requests.csv
 
 Contains information about users vistits to the system.
 
