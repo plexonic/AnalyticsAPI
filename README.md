@@ -1,21 +1,21 @@
 # Analytics API project description
 
 ## Project Overview 
-Implement an Web service which provides an HTTP API for acessing some analytic metrics.   
+Implement an Web service which provides an HTTP API for accessing some analytic metrics.   
 ### Objective
 Import provided data into database and implement an web service which will calculate and send back some analytical metrics based on input arguments via some defined API.
 ### Technical Specifications
 Implementation should be based on Layered Architecture. 
 Application should have Presentation, Business and Data Access Layers.
 #### 1. Database
-Any relation database.
+Any relational database.
 
 #### 2. Provided Data format
 There are 2 csv files in data.zip archive.
 
 ##### 2.1 users.csv
 
-Contins users information.
+Contains users information.
 
 | Name  |  Details|
  ------------- |:-------------:| 
